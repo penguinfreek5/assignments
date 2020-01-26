@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\brees folder\calulator revised\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\brees folder\calulator revised\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\brees folder\calulator revised\Source.cpp(7,26): warning C4091: '': ignored on left of 'std::basic_istream<char,std::char_traits<char>>' when no variable is declared
+D:\brees folder\calulator revised\Source.cpp(8,24): warning C4091: '': ignored on left of 'std::char_traits<char>' when no variable is declared
+D:\brees folder\calulator revised\Source.cpp(13,14): warning C4101: 'op': unreferenced local variable
+  calulator revised.vcxproj -> D:\brees folder\calulator revised\Debug\calulator revised.exe

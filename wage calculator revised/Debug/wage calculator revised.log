@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\brees folder\wage calculator revised\Source.cpp(28,34): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\brees folder\wage calculator revised\Source.cpp(32,34): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\brees folder\wage calculator revised\Source.cpp(44,34): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\brees folder\wage calculator revised\Source.cpp(48,34): warning C4804: '<=': unsafe use of type 'bool' in operation
+  wage calculator revised.vcxproj -> D:\brees folder\wage calculator revised\Debug\wage calculator revised.exe
