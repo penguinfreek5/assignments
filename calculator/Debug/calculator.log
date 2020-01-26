@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\brees folder\calculator\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\brees folder\calculator\Source.cpp(8,26): warning C4091: '': ignored on left of 'std::basic_istream<char,std::char_traits<char>>' when no variable is declared
+D:\brees folder\calculator\Source.cpp(9,24): warning C4091: '': ignored on left of 'std::char_traits<char>' when no variable is declared
+  calculator.vcxproj -> D:\brees folder\calculator\Debug\calculator.exe
